@@ -1,7 +1,5 @@
 <h1 align="center">
-
     <a href="#">Lista 2 de revisão Matheus Alexandre</a>
-
 </h1>
 
 <p align="center">Lista 2 de revisão da disciplina de Pesquisa Operacional.</p>
