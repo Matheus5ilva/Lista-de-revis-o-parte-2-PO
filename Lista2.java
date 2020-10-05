@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class Lista2 {
+public class Lista2 { // Essa Classe é responsavel pela leitura e manipulação do grafo das questões 6 e 7 da lista 2. A questão 7 esta feita no ultimo metodo dessa classe.
 
 	int[][] grafo = new int[18][3]; // Criação de uma variavel de matriz para salvar os dados do arquivo para a variavel
 
